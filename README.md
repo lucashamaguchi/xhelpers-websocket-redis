@@ -9,7 +9,7 @@ Project to test multiple instances of websocket server and multiple clients subs
 - [TypeScript 3.8](https://www.typescriptlang.org/).
 - [Node.js 12+](https://nodejs.org/).
 - [redis](https://github.com/NodeRedis/node-redis).
-  - [Mongodb](https://redis.io/).
+  - [Redis](https://redis.io/).
 
 ## Option 1 - With Docker
 
