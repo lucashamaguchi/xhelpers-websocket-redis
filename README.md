@@ -1,7 +1,7 @@
 # xhelpers-websocket-redis
 
 # Description
-Project to test multiple instances of websocket server and multiple clients subscribing and publishing to these instances. Used redis to ensure that if a client A subscribe to a instance X and a message to the client A is published to a instance Y, the instance X (where client A is connected to) pushs the notification to client A.
+Project to test multiple instances of websocket server and multiple clients subscribing and publishing to these instances. Used redis to ensure that if a client A subscribes to an instance X and a message to the client A is published to an instance Y, the instance X (where client A is connected to) pushs the notification to client A.
 
 ## Main Dependencies and Requisites
 
